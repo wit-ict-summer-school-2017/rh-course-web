@@ -1,3 +1,3 @@
 Agile Methods
 
-Explore the Agile Software Development Methodolody in the context of your recent assignments.
+Explore the Agile Software Development Methodology in the context of your recent assignments.
